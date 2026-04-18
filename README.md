@@ -209,6 +209,7 @@ described in [RFC 8032]
  * [jmespath.cr](https://github.com/qequ/jmespath.cr) - Crystal implementation of JMESPath, a query language for JSON
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
  * [json-schema](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
+ * [shiny_json_logic](https://github.com/luismoyano/shiny-json-logic-crystal) - Zero-dependency JSON Logic implementation passing 100% of the official test suite
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
